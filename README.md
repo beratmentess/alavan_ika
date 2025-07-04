@@ -71,6 +71,7 @@ Araç Hareketi
 **Yazılım ve Otonomi Geliştirici:**  
 -🧑‍💻 *Mahir Berat Menteş*  
 Görüntü işleme sistemleri otonom sürüş algoritmalarından sorumludur.
+
 -🧑‍💻 *Halil Aydın*  
 ROS tabanlı yazılım mimarisi ve otonom sürüş algoritmalarından sorumludur.
 
