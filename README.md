@@ -69,9 +69,9 @@ Araç Hareketi
 > Projede farklı mühendislik disiplinlerinden öğrenciler yer almaktadır.  
 
 **Yazılım ve Otonomi Geliştirici:**  
-🧑‍💻 *Mahir Berat Menteş*  
+-🧑‍💻 *Mahir Berat Menteş*  
 Görüntü işleme sistemleri otonom sürüş algoritmalarından sorumludur.
-🧑‍💻 *Halil Aydın*  
+-🧑‍💻 *Halil Aydın*  
 ROS tabanlı yazılım mimarisi ve otonom sürüş algoritmalarından sorumludur.
 
 ---
